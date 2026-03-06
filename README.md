@@ -122,4 +122,13 @@ http://localhost:8080
 
 ---
 
+
+## Run with Docker
+
+Build image: ``` docker build -t url-shortener . ```
+
+Run container: ``` docker run -p 8080:8080 url-shortener ```
+
+---
+
 Author: Manojkumar Shinde
